@@ -66,16 +66,17 @@ export default function Home() {
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-1.5 text-sm font-medium text-primary mb-6">
               <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
-              Technical Marketing Resources
+              By Abubaker Mohammed
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1] mb-6">
               Master the Art of{" "}
               <span className="text-primary">Tracking & Measurement</span>
             </h1>
             <p className="text-lg text-muted leading-relaxed mb-8 max-w-2xl">
-              Deep-dive guides, practical tools, and expert consulting for GTM
-              implementation, app tracking, server-side tagging, and event
-              mapping. Built for technical marketers who care about data quality.
+              I&apos;m Abubaker Mohammed — I write deep-dive guides and provide expert
+              consulting for GTM implementation, app tracking, server-side
+              tagging, and event mapping. Built for technical marketers who care
+              about data quality.
             </p>
             <div className="flex flex-wrap gap-4">
               <Link

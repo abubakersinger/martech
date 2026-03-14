@@ -28,20 +28,22 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-                <span className="text-white font-bold text-sm">TS</span>
+                <span className="text-white font-bold text-sm">AM</span>
               </div>
               <span className="text-xl font-bold">
-                Track<span className="text-primary">Stack</span>
+                Abubaker <span className="text-primary">Mohammed</span>
               </span>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed">
-              Expert resources and consulting for technical marketing
-              professionals. GTM, app tracking, server-side tagging, and event
-              mapping.
+              Abubaker Mohammed — expert resources and consulting for technical
+              marketing professionals. GTM, app tracking, server-side tagging,
+              and event mapping.
             </p>
             <div className="flex gap-4 mt-6">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/abubaker-mohammedali/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="LinkedIn"
               >
@@ -94,7 +96,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} TrackStack. All rights reserved.
+            &copy; {new Date().getFullYear()} Abubaker Mohammed. All rights reserved.
           </p>
           <div className="flex gap-6">
             <Link

@@ -15,9 +15,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TrackStack | GTM, App Tracking & Event Mapping for Technical Marketers",
+  title: "Abubaker Mohammed | GTM, App Tracking & Event Mapping Specialist",
   description:
-    "Expert resources for Google Tag Manager, app tracking implementation, server-side tagging, and event mapping. Guides, tools, and consulting for technical marketing professionals.",
+    "Abubaker Mohammed — expert in Google Tag Manager, app tracking implementation, server-side tagging, and event mapping. Guides, tools, and consulting for technical marketing professionals.",
   keywords: [
     "GTM",
     "Google Tag Manager",

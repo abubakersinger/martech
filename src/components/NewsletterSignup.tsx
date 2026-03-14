@@ -16,7 +16,7 @@ export default function NewsletterSignup() {
     <section className="bg-gradient-to-br from-primary to-primary-dark py-16">
       <div className="mx-auto max-w-6xl px-4 sm:px-6 text-center">
         <h2 className="text-3xl font-bold text-white mb-3">
-          The TrackStack Newsletter
+          Abubaker&apos;s Newsletter
         </h2>
         <p className="text-indigo-200 mb-8 max-w-lg mx-auto">
           Weekly insights on GTM, analytics, server-side tagging, and event
